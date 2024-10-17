@@ -3,7 +3,7 @@ import pandas as pd
 from groq import Groq
 
 # Set your GROQ_API_KEY environment variable
-os.environ['GROQ_API_KEY'] = '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' 
+os.environ['GROQ_API_KEY'] = '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' 
 
 # Initialize the Groq client
 client = Groq()
