@@ -6,3 +6,4 @@ langchain_groq
 plotly
 folium
 streamlit_folium
+google.generativeai
